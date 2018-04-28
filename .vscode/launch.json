@@ -20,8 +20,7 @@
             "request": "launch",
             "platform": "ios",
             "sourceMaps": true,
-            "outDir": "${workspaceRoot}/.vscode/.react",
-            "preLaunchTask": "Start Typescript work"
+            "outDir": "${workspaceRoot}/.vscode/.react"
         },
         {
             "name": "Attach to packager",
